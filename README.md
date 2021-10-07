@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoeGyiOnStream
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning c#,html and JavaScript.
+- 🌱 I’m currently learning c++,c#,html and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
